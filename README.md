@@ -149,7 +149,7 @@ UCAL:
 
 ## 👨‍💻 Author
 
-Siddhant (IT Engineering)
+Siddhant 
 
 ---
 
